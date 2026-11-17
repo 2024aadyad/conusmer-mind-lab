@@ -42,7 +42,7 @@ The dataset is historical and is used for educational analysis. The app does not
 
 ```bash
 git clone https://github.com/2024aadyad/conusmer-mind-lab.git
-cd consumer_mind_lab
+cd conusmer-mind-lab
 ```
 
 ### 2. Create and activate a virtual environment
