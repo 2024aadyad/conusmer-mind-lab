@@ -1,6 +1,6 @@
 
 
-# Consumer Mind Lab 🧠
+![Consumer Mind Lab Dashboard](screenshots/dashboard.png)
 
 An interactive consumer behaviour and marketing intelligence dashboard built with **Python, Streamlit and machine learning**.
 
